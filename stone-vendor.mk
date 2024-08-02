@@ -389,7 +389,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/stone/proprietary/vendor/etc/mixer_paths_qrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_qrd.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/mixer_paths_qrdsku1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_qrdsku1.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/mixer_paths_usbc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_usbc.xml \
-    vendor/xiaomi/stone/proprietary/vendor/etc/msm_irqbalance.conf:$(TARGET_COPY_OUT_VENDOR)/etc/msm_irqbalance.conf \
     vendor/xiaomi/stone/proprietary/vendor/etc/permissions/com.fingerprints.extension.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.fingerprints.extension.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/mdss_dsi_panel_m17_38_0c_0a_fhdp_dsc_vid_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mdss_dsi_panel_m17_38_0c_0a_fhdp_dsc_vid_mi.xml \
