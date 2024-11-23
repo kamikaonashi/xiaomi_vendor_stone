@@ -373,3 +373,9 @@ DELETE FROM qcril_emergency_source_hard_mcc_table where MCC = '222' AND NUMBER =
 INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('724','05','180','','');
 INSERT INTO qcril_emergency_source_mcc_mnc_table VALUES('724','05','185','','');
 /* hq-lijiazheng for HQ-319853 @2023.08.21 end*/
+
+/*M17-U code for HQ-408808 by wutaida at 2024/08/13 start*/
+DELETE FROM qcril_emergency_source_hard_mcc_table where MCC = '238' AND NUMBER = '110';
+DELETE FROM qcril_emergency_source_hard_mcc_table where MCC = '238' AND NUMBER = '118';
+DELETE FROM qcril_emergency_source_hard_mcc_table where MCC = '238' AND NUMBER = '119';
+/*M17-U code for HQ-408808 by wutaida at 2024/08/13 end*/
